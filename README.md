@@ -8,7 +8,11 @@ This project create for kerry test
     * NuGet
     * MySQL.data
     * Newtonsoft.Json
- 
++ Postman
+## Description
+- MySQL for user account database 
+- Visual Studio for run .NET framework
+- Postman for get response from api 
 ## Instruction
                 
 1. Fork and clone the git repository 
