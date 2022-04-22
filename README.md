@@ -8,7 +8,7 @@ This project create for kerry test
     * NuGet
     * MySQL.data
     * Newtonsoft.Json
-+ Postman
++ Postman or swagger 
 ## Description
 - MySQL for user account database 
 - Visual Studio for run .NET framework
@@ -17,6 +17,6 @@ This project create for kerry test
                 
 1. Fork and clone the git repository 
 2. Import Kerrydb.sql to your MySQL server 
-3. In the folder Controller you will find a KerryTestController.cs
-4. Run file KerryTestController.cs 
+3. Run file Controller 
+
 
